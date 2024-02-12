@@ -1,4 +1,4 @@
-# Projekt-Bazy-Danych-dla-wypozyczalni-filmow-online
+# Projekt_Bazy_Danych_dla_wypozyczalni_filmow_online
 
 #### Projekt bazy danych używanej przez wypożyczalnie filmów online
 
